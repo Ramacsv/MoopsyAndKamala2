@@ -2,11 +2,11 @@
 ---
 ## Natural Language Processing
 
-### CS224n: Natural Language Processing with Deep Learning
+### Word Representation and Text Classification with Neural Networks
 
-My complete implementation of assignments and projects in [***CS224n: Natural Language Processing with Deep Learning***](http://web.stanford.edu/class/cs224n/) by Stanford (Winter, 2019).
+**Description:** This is NLP project divided into 4 parts includes Word Embeddings with Word2Vec, Basic Text Classification, Using LSTMs for Text Classification and Text classification using BERT.
 
-[![View on GitHub]()])
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/mskabirkhan/Word-Representation-and-Text-Classification-with-Neural-Networks)
 
 **Neural Machine Translation:** An NMT system which translates texts from Spanish to English using a Bidirectional LSTM encoder for the source sentence and a Unidirectional LSTM Decoder with multiplicative attention for the target sentence ([GitHub]()).
 
