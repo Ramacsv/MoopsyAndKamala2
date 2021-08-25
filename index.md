@@ -21,7 +21,8 @@ Description: This is NLP project divided into 4 parts includes Word Embeddings w
 
 Description: Developed basic hand digit recognition classifier and trained on MNIST data. 
 
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/mskabirkhan/Basic-Neural-Networks-CNN-with-MNIST/blob/master/CNN_mnist.ipynb)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/mskabirkhan/Basic-Neural-Networks-CNN-with-MNIST)
+
 ---
 ## Data Science
 
