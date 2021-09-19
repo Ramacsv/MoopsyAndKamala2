@@ -1,5 +1,32 @@
 # Portfolio
 ---
+## Machine Learning and Deep Learning 
+
+### Deep Learning based drone detection - YOLOv4
+
+Description: Developed deep learning based drone detection system that able to detect any flying drone in live. I have used You only look once (YOLOv4) object detection framework to implement this project. I have trained 6000 imgaes (4000 was manually labelled by labelimg tools) to traine this model and tested in live environment.
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/mskabirkhan/data-science-machine-learning-projects/blob/master/Drone_80_20_Dataset.ipynb)
+
+
+### Flower Classifier with pretrained VGG16 and CIFAR10 by ResNET20
+
+**Description**
+
+- VGGNET16: Developed a flower classifier using VGG16. Other tools I used keras and some machine learning concept such as Activation, MaxPooling2D, BatchNormalization, Flattening, EarlyStopping etc.
+
+- ResNET20: Implemented CIFAR10 classifier using ResNet20 including machine leanring tools/ technology such as TensorFlow, optimizers, BatchNormalization, AveragePooling2D, ZeroPadding2D etc.
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/mskabirkhan/data-science-machine-learning-projects/blob/master/ResNET_20_cifar10.ipynb)
+
+### Basic Neural Networks (Convolutional neural network) with MNIST
+
+Description: Developed basic hand digit recognition classifier and trained on MNIST data. 
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/mskabirkhan/Basic-Neural-Networks-CNN-with-MNIST)
+
+
+---
 ## Data Science
 
 ### Brain Tumor Classification using Keras and Pre-tranined Efficientnet Model
@@ -69,33 +96,6 @@ Description: This is NLP project divided into 4 parts includes Word Embeddings w
 **Dependency Parsing:** A Neural Transition-Based Dependency Parsing system with one-layer MLP ([GitHub]()).
 
 <center><img src="images/nlp.png"/></center>
-
----
-## Machine Learning and Deep Learning 
-
-### Deep Learning based drone detection - YOLOv4
-
-Description: Developed deep learning based drone detection system that able to detect any flying drone in live. I have used You only look once (YOLOv4) object detection framework to implement this project. I have trained 6000 imgaes (4000 was manually labelled by labelimg tools) to traine this model and tested in live environment.
-
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/mskabirkhan/data-science-machine-learning-projects/blob/master/Drone_80_20_Dataset.ipynb)
-
-
-### Flower Classifier with pretrained VGG16 and CIFAR10 by ResNET20
-
-**Description**
-
-- VGGNET16: Developed a flower classifier using VGG16. Other tools I used keras and some machine learning concept such as Activation, MaxPooling2D, BatchNormalization, Flattening, EarlyStopping etc.
-
-- ResNET20: Implemented CIFAR10 classifier using ResNet20 including machine leanring tools/ technology such as TensorFlow, optimizers, BatchNormalization, AveragePooling2D, ZeroPadding2D etc.
-
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/mskabirkhan/data-science-machine-learning-projects/blob/master/ResNET_20_cifar10.ipynb)
-
-### Basic Neural Networks (Convolutional neural network) with MNIST
-
-Description: Developed basic hand digit recognition classifier and trained on MNIST data. 
-
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/mskabirkhan/Basic-Neural-Networks-CNN-with-MNIST)
-
 
 
 ---
