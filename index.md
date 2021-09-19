@@ -1,47 +1,15 @@
 # Portfolio
 ---
-## Natural Language Processing
-
-### Word Representation and Text Classification with Neural Networks
-
-Description: This is NLP project divided into 4 parts includes Word Embeddings with Word2Vec, Basic Text Classification, Using LSTMs for Text Classification and Text classification using BERT.
-
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/mskabirkhan/Word-Representation-and-Text-Classification-with-Neural-Networks)
-
-**Neural Machine Translation:** An NMT system which translates texts from Spanish to English using a Bidirectional LSTM encoder for the source sentence and a Unidirectional LSTM Decoder with multiplicative attention for the target sentence ([GitHub]()).
-
-**Dependency Parsing:** A Neural Transition-Based Dependency Parsing system with one-layer MLP ([GitHub]()).
-
-<center><img src="images/nlp.png"/></center>
-
----
-## Machine Learning and Deep Learning 
-
-### Deep Learning based drone detection - YOLOv4
-
-Description: Developed deep learning based drone detection system that able to detect any flying drone in live. I have used You only look once (YOLOv4) object detection framework to implement this project. I have trained 6000 imgaes (4000 was manually labelled by labelimg tools) to traine this model and tested in live environment.
-
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/mskabirkhan/data-science-machine-learning-projects/blob/master/Drone_80_20_Dataset.ipynb)
-
-
-### Flower Classifier with pretrained VGG16 and CIFAR10 by ResNET20
-
-**Description**
-
-- VGGNET16: Developed a flower classifier using VGG16. Other tools I used keras and some machine learning concept such as Activation, MaxPooling2D, BatchNormalization, Flattening, EarlyStopping etc.
-
-- ResNET20: Implemented CIFAR10 classifier using ResNet20 including machine leanring tools/ technology such as TensorFlow, optimizers, BatchNormalization, AveragePooling2D, ZeroPadding2D etc.
-
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/mskabirkhan/data-science-machine-learning-projects/blob/master/ResNET_20_cifar10.ipynb)
-
-### Basic Neural Networks (Convolutional neural network) with MNIST
-
-Description: Developed basic hand digit recognition classifier and trained on MNIST data. 
-
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/mskabirkhan/Basic-Neural-Networks-CNN-with-MNIST)
-
----
 ## Data Science
+
+### Brain Tumor Classification using Keras and Pre-tranined Efficientnet Model
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/mskabirkhan/Data-science-machine-learning-projects/blob/master/Brain_Tumor_Classification.ipynb)
+
+<div style="text-align: justify">Performed data visualization, data preprocessing, data augmentation, Created train, validation and test sets using image Data Generator in Keras. Trained an Efficient Net Model in Keras to perform Image Classification.</div>
+<br>
+<center><img src=""/></center>
+<br>
 
 ### Credit Risk Prediction Web App
 
@@ -85,6 +53,50 @@ Description: Developed basic hand digit recognition classifier and trained on MN
 <br>
 <center><img src="images/bac2018.JPG"/></center>
 <br>
+
+---
+
+## Natural Language Processing
+
+### Word Representation and Text Classification with Neural Networks
+
+Description: This is NLP project divided into 4 parts includes Word Embeddings with Word2Vec, Basic Text Classification, Using LSTMs for Text Classification and Text classification using BERT.
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/mskabirkhan/Word-Representation-and-Text-Classification-with-Neural-Networks)
+
+**Neural Machine Translation:** An NMT system which translates texts from Spanish to English using a Bidirectional LSTM encoder for the source sentence and a Unidirectional LSTM Decoder with multiplicative attention for the target sentence ([GitHub]()).
+
+**Dependency Parsing:** A Neural Transition-Based Dependency Parsing system with one-layer MLP ([GitHub]()).
+
+<center><img src="images/nlp.png"/></center>
+
+---
+## Machine Learning and Deep Learning 
+
+### Deep Learning based drone detection - YOLOv4
+
+Description: Developed deep learning based drone detection system that able to detect any flying drone in live. I have used You only look once (YOLOv4) object detection framework to implement this project. I have trained 6000 imgaes (4000 was manually labelled by labelimg tools) to traine this model and tested in live environment.
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/mskabirkhan/data-science-machine-learning-projects/blob/master/Drone_80_20_Dataset.ipynb)
+
+
+### Flower Classifier with pretrained VGG16 and CIFAR10 by ResNET20
+
+**Description**
+
+- VGGNET16: Developed a flower classifier using VGG16. Other tools I used keras and some machine learning concept such as Activation, MaxPooling2D, BatchNormalization, Flattening, EarlyStopping etc.
+
+- ResNET20: Implemented CIFAR10 classifier using ResNet20 including machine leanring tools/ technology such as TensorFlow, optimizers, BatchNormalization, AveragePooling2D, ZeroPadding2D etc.
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/mskabirkhan/data-science-machine-learning-projects/blob/master/ResNET_20_cifar10.ipynb)
+
+### Basic Neural Networks (Convolutional neural network) with MNIST
+
+Description: Developed basic hand digit recognition classifier and trained on MNIST data. 
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/mskabirkhan/Basic-Neural-Networks-CNN-with-MNIST)
+
+
 
 ---
 <center>© 2021 MS Kabir Khan. Powered by Jekyll and the Minimal Theme.</center>
