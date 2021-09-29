@@ -29,6 +29,16 @@ Description: Developed basic hand digit recognition classifier and trained on MN
 ---
 ## Data Science
 
+### Data Analysis and visualisation in Tablaue
+[View on Tableau public](https://public.tableau.com/app/profile/shahriar.kabir.kha/viz/ProductLinePerformance_16320555974560/ProductLinePerformance)
+
+<div style="text-align: justify">Performed data analysis and visualization using BI tools Tableau, created multiple dashboard and organised in a Tableau story to tell the story for stackholders.</div>
+
+<br>
+<center><img src="assets\img\product_line_performencw.png"/></center>
+<br>
+
+
 ### Brain Tumor Classification using Keras and Pre-tranined Efficientnet Model
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/mskabirkhan/Data-science-machine-learning-projects/blob/master/Brain_Tumor_Classification.ipynb)
