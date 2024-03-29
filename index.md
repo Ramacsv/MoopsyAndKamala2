@@ -1,6 +1,3 @@
----
-layout: default
----
 
 # Salesforce Architect 
 Salesforce Certified Application and System Architect 
