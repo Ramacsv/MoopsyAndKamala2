@@ -15,10 +15,10 @@ layout: default
 
 
 <p align="center">
-         <img src="assets/img/suzukii_europe_distribution.gif">
+         <img src="assets/img/animated_map.gif">
 </p>
 
-<p>Interestingly, in Europe, <i>D. suzukii</i> progressed from the south to the north. This could indicate that <i>D. suzukii</i> invaded through southern ports and moved north on land.</p>
+<p> <i>D. suzukii</i> has spread rapidly across the globe since 1980.</p>
 
 
 <h3 align="center"> Three Years of COVID-19 in New York City</h3>
