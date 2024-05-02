@@ -3,13 +3,13 @@ layout: default
 ---
 ## Reporting Portfolio 
 
-<h3 align="center"> <i>Drosophila suzukii</i> Global Distribution</h3>
-<i>D. suzukii</i> is an invasive fruit fly from East and Southeast Asia that lays its eggs in ripe fruit, causing extensive crop damage. In 2018, scientists provided a comprehensive overview of <i>D. suzukii's</i> global distribution [Ørsted and  Ørsted, 2018](https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/1365-2664.13285). The compiled data are from over 500 documents and include information on <i>D. suzukii's</i> rapid global spread I used this data to visualize the progression of <i>D. suzukii</i>. Each dot represents a recorded observation of <i>D. suzukii</i>.
+<h3 align="center"> <i>Drosophila suzukii</i>'s global distribution</h3>
+<i>D. suzukii</i> is an invasive fruit fly from East and Southeast Asia that lays its eggs in ripe fruit, causing extensive crop damage. In 2018, scientists provided a comprehensive overview of <i>D. suzukii's</i> global distribution [Ørsted and  Ørsted, 2018](https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/1365-2664.13285). The compiled data are from over 500 documents and include information on <i>D. suzukii's</i> rapid global spread I used this data to visualize the progression of <i>D. suzukii</i>. 
 <p align="center">
          <img src="assets/img/animated_map_loop2.gif">
 </p>
 
-
+<h3 align="center"> Interactive map of <i>Drosophila suzukii</i> global distribution with collection information</h3>
 <p>  Each observation includes information on an observation date and on the abundance of collection. To view additional information, I created an interactive html document. Country names can be viewed when hovering, and labels for <i>D. suzukii's</i> observation date and abundance can be viewed when clicking on an individual dot. </p>
 <p align="center">
          <img src="/assets/img/suzukii_global_distribution.gif">
