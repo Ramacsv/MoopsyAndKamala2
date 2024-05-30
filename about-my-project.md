@@ -11,3 +11,5 @@ Approach: During this project, I will assist a team in designing a system that a
   - Map output from physiological sensors to a physical robot. 
 
 Expected Outcome: The project is expected to result in a conference poster presentation at the end of the DREU program. The poster will focus on the system's technical architecture.
+
+[Back](./)
