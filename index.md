@@ -109,4 +109,4 @@ Description: This is NLP project divided into 4 parts includes Word Embeddings w
 
 
 ---
-<center>© 2022 MS Kabir Khan. Powered by Jekyll and the Minimal Theme.</center>
+<center>© 2024 MS Kabir Khan. Powered by Jekyll and the Minimal Theme.</center>
