@@ -1,1 +1,1 @@
-- [About Me](./week1.html).
+- [Week 1](./week1.html).
