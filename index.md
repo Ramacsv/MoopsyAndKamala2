@@ -4,8 +4,12 @@ layout: default
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-[Link to another page](./another-page.html).
+[About Me](./about-me.html).
+[About My Mentor](./about-my-mentor.html).
+[About My Project](./about-my-project.html).
+[My Blog](./my-blog.html).
 
+                                                           
 There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
