@@ -3,6 +3,7 @@ layout: default
 ---
 
 <div class="wrapper">
+  <div>
   <header>
     <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
     <img src="{{site.logo | relative_url}}" alt="Logo" />
@@ -19,5 +20,5 @@ layout: default
     {% if site.github.is_project_page %}
     <p>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
     {% endif %}
-  </footer>
+  </footer></div>
 </div>
