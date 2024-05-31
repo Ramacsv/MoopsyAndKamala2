@@ -3,5 +3,3 @@ Currently, I am a Senior at Morgan State University, located in Baltimore, Maryl
 
 [Linkedin Profile](https://www.linkedin.com/in/michael-adeleke-4a1228217/)
 
-[Back](./)
-
