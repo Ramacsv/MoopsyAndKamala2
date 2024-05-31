@@ -1,3 +1,4 @@
+---
 layout: default
 ---
 
@@ -5,7 +6,6 @@ layout: default
   <header>
     <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
     <img src="{{site.logo | relative_url}}" alt="Logo" />
-    {% endif %}
     <p>{{ site.description | default: site.github.project_tagline }}</p>
     {% if site.github.is_project_page %}
     <p class="view"><a href="{{ site.github.repository_url }}">View the Project on GitHub <small>{{ site.github.repository_nwo }}</small></a></p>
@@ -24,3 +24,4 @@ layout: default
 
 ## Who Am I?
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
