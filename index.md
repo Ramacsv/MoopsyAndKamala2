@@ -6,8 +6,9 @@ layout: default
   <header>
     <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
     <img src="{{site.logo | relative_url}}" alt="Logo" />
+    {% if site.description %}
+    <p>{{ site.description }}</p>
     {% endif %}
-    <p>{{ site.description | default: site.github.project_tagline }}</p>
     {% if site.github.is_project_page %}
     <p class="view"><a href="{{ site.github.repository_url }}">View the Project on GitHub <small>{{ site.github.repository_nwo }}</small></a></p>
     {% endif %}
