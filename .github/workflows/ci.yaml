@@ -16,3 +16,6 @@ jobs:
         run: script/bootstrap
       - name: test
         run: script/cibuild
+concurrency:
+  group: "pages"
+  cancel-in-progress: False
