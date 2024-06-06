@@ -2,12 +2,15 @@ title: <p align="center">Pat BALDOMAR</p>
 logo: /assets/img/Paterno.jpg
 description: 
   <p align="center">
-  <a href="/assets/img/CV%20VSL%20Paterno%20Baldomar.pdf"><img alt="Static Badge" src="https://img.shields.io/badge/RESUME-8A2BE2"></a> |
-  <a href="https://in.linkedin.com/in/patab"><img alt="Static Badge" src="https://img.shields.io/badge/LinkedIn-blue"></a> |
+  <a href="/assets/img/CV%20VSL%20Paterno%20Baldomar.pdf"><img alt="Static Badge" src="https://img.shields.io/badge/RESUME-8A2BE2"></a> 
+  <a href="https://in.linkedin.com/in/patab"><img alt="Static Badge" src="https://img.shields.io/badge/LinkedIn-blue"></a> 
   <a href="https://github.com/pabaldomar"><img alt="Static Badge" src="https://img.shields.io/badge/GitHub-black"></a>
   <br>
+  <p align="center">
+  This is my Data Science Portfolio.
+  </p>
   <p align="justify">
-  This is my Data Science Portfolio. Took up Data Science Bootcamps and still honing my Python skill.
+  Took up Data Science Bootcamps and still honing my Python skill.
   </p>
   </br>
   </p>
