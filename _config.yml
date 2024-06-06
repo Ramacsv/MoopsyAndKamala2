@@ -1,6 +1,14 @@
-title: Minimal theme
-logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
-show_downloads: true
+title: <p align="center">Pat BALDOMAR</p>
+logo: /assets/img/Paterno.jpg
+description: 
+  <p align="justify">
+  <a href=""><img alt="Static Badge" src="https://img.shields.io/badge/RESUME-8A2BE2"></a> |
+  <a href="https://in.linkedin.com/in/patab"><img alt="Static Badge" src="https://img.shields.io/badge/LinkedIn-blue"></a> |
+  <a href="https://github.com/pabaldomar">GitHub</a>
+  <br>
+  This is my Data Science Portfolio.
+  </br>
+  </p>
+show_downloads: false
 google_analytics:
 theme: jekyll-theme-minimal
