@@ -5,6 +5,7 @@ description:
   <a href="/assets/img/CV%20VSL%20Paterno%20Baldomar.pdf"><img alt="Static Badge" src="https://img.shields.io/badge/RESUME-8A2BE2"></a> 
   <a href="https://in.linkedin.com/in/patab"><img alt="Static Badge" src="https://img.shields.io/badge/LinkedIn-blue"></a> 
   <a href="https://github.com/pabaldomar"><img alt="Static Badge" src="https://img.shields.io/badge/GitHub-black"></a>
+  </p>
   <br>
   <p align="center">
   This is my Data Science Portfolio.
@@ -13,7 +14,6 @@ description:
   Took up Data Science Bootcamps and still honing my Python skill.
   </p>
   </br>
-  </p>
 show_downloads: false
 google_analytics:
 theme: jekyll-theme-minimal
