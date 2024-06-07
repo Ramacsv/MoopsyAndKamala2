@@ -1,9 +1,9 @@
 ---
 layout: default
 ---
-#Data Science
+# Data Science
 <hr>
-##Sample 0001
+## Sample 0001
 
 The quick brown fox jumps over the lazy dog.
 
