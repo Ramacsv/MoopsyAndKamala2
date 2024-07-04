@@ -1,6 +1,8 @@
-title: Minimal theme
-logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
-show_downloads: true
-google_analytics:
+title: SuiteCases MoopsyKamala Story
+description:  Moopsy and Kamala Joint Task
+//logo:  InfinityLake.svg
+
 theme: jekyll-theme-minimal
+//title: Minimal theme
+//logo: /assets/img/logo.png
+//description: Minimal is a theme for GitHub Pages.
