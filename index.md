@@ -3,7 +3,7 @@ layout: default
 ---
 
 
-#  Moopsy Kamala Story
+#  Moopsy And Kamala Story
 
 There once was a fox named kamala  and her friend was Moopsy one day they they read an artical about a chocolate 
 mine in kamalaland  on a mountain and then they called their friend Janiki bos and soon they set out for kamalaland with their mining tools when they arrived they took a boat
