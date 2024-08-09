@@ -21,8 +21,15 @@ layout: default
 
 *The bus stopped near a lake and waterfall with running water. They got downand then they climbed to the top of the mountain and soon they began mining for chocolate which took 1 and a half hours*. 
 
-*When they were done mining, they found chocolate and gold ore.*
-* 
-and found the golden churro logo and churro logo stamp which came with a churro logo stamp pad in fact all of them came with the churro logo and churro logo stamp then they left the mine after they were down the mountain they heard a gurgle from the mountain shortly after the waterfall and lake were flooded with the churro logo and churro logo stamp making shapes like the mountain they fell from in the chocolate wow they all said they wrote a book next to the chocolate mine about their adventure when they got home they published it everyone read it the end.
+*When they were done mining, they found chocolate and gold ore in a box formation.*
+
+*Also found the golden churro logo and churro logo stamp which came with a churro logo stamp pad in fact all of them came in a box.*
+
+*They picked up all these and then they left the mine. After they were down the mountain they heard a gurgle from the mountain.*
+
+*Shortly after that, the waterfall and lake were flooded with gold ore mixed with chocolate churro logo and churro logo stamp.*
+
+like the mountain they fell from in the chocolate wow they all said they wrote a book next to the chocolate mine about their adventure when they got home they published it everyone read it the end.
 
 Thank you for visiting my page.
+.
