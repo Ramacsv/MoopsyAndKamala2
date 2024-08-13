@@ -21,11 +21,13 @@ layout: default
 
 *In that passageway Moopsy saw a bike written ECB that stands for "Electronic Churro Bike". There was a mobile system on the bike that was connectes to satelite called KJMC - Kamala Janaki Moopsy Churro. Moospy went to get Kamal Janaki to come and see the bike. When Moopsy came back she saw the bike going down from top layer to the bottom layer and disappear. Therefore Kamala and Janaki could not see it*
 
-When they arrived at kamala island, there was a free tour bus that was ready to go to dolphimium 5 and they all sat inside the bus.*
+*When they arrived at kamala island, there was a free tour bus that was ready to go to dolphimium 5 and they all sat inside the bus.*
 
 *The bus stopped near a lake and waterfall with running water where you can rent all terrain vehicles and they got one. They took the all terrain vehicle and then they went halfway and found a shortcut to the top of the mountain.*
 
-* They decided to park the vehicle and took shortcut to climb to the top. While going up they all saw the bike ECB on top of the mountain.*
+* They decided to park the vehicle and took shortcut to climb to the top. While going up they all saw the bike ECB on top of the mountain. How did it get there is the question.
+
+*When they reached the top, Moopsy first took the ECB and turned the handle, it opened a door in the mountain mine. All of a sudden Kamala and Janaki were pulled into the mine through the door and the door closed.*
 
 and soon they began mining for chocolate which took 1 and a half hours.*
 
